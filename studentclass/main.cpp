@@ -64,6 +64,7 @@ void Student::setName(string nameIn)
 {
     name = nameIn;
 }
+
 void Student::setId(int idIn)
 {
     id = idIn;
